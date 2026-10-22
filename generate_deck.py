@@ -690,8 +690,8 @@ def build_winning_deck():
     lr0.font.color.rgb = ACCENT_ORANGE
 
     p_links = [
-        ("Live Web App Link : ", "https://pravaah-aicte.vercel.app"),
-        ("GitHub Repository : ", "https://github.com/team-pravaah360/aicte-approval-workflow.git"),
+        ("Live Web App Link : ", "https://frontend-lyart-chi-21.vercel.app"),
+        ("GitHub Repository : ", "https://github.com/divyanshattrish/pravaah360-aicte.git"),
         ("Google Drive Link : ", "https://drive.google.com/drive/folders/1Pravaah360DemoSIH2026?usp=sharing")
     ]
     for lbl, url in p_links:

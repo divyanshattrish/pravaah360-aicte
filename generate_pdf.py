@@ -368,9 +368,8 @@ def generate_pdf():
         "• <b>AICTE Statutory Regulations:</b> Approval Process Handbook (APH 2024–2027) Norms for Land, Cadre Ratios, and Affidavits.<br/>"
         "• <b>MeitY Guidelines:</b> Guidelines for Compliance of Digital Signature Certificates (DSC) and e-Sign in Government Applications.<br/>"
         "• <b>Live Prototype & Deliverables:</b><br/>"
-        "  - Simulated Web Application: <u>https://pravaah-aicte.vercel.app</u><br/>"
-        "  - Native Android Mobile APK: <u>https://github.com/team-pravaah360/evc-inspector-android</u><br/>"
-        "  - GitHub Backend Repository: <u>https://github.com/team-pravaah360/aicte-approval-workflow.git</u><br/>"
+        "  - Production Web Application: <u>https://frontend-lyart-chi-21.vercel.app</u><br/>"
+        "  - GitHub Repository: <u>https://github.com/divyanshattrish/pravaah360-aicte.git</u><br/>"
         "  - Demonstration Folder: <u>https://drive.google.com/drive/folders/1Pravaah360DemoSIH2026?usp=sharing</u>",
         body_style
     ))
