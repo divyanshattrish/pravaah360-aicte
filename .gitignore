@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Production Build
+frontend/dist/
+dist/
+
+# Vercel
+.vercel/
+frontend/.vercel/
+
+# Environment and Logs
+*.log
+.env
+.env.local
+.DS_Store
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
